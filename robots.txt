@@ -1,0 +1,5 @@
+User-agent: *
+
+Allow: /
+
+Sitemap: https://00001himanshu.github.io/NEXIORA-by-Himanshu-Tonger/sitemap.xml
